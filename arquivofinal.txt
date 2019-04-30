@@ -1,0 +1,14 @@
+arquivofinal.txt
+backup-paula
+instrucoes.txt
+log
+pasta1
+pasta2
+pasta3
+paula13
+paula1.txt
+paula2.txt
+paula3.txt
+prova1-paula.txt
+README.md
+ultimocomando.txt
